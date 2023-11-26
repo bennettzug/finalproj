@@ -1,0 +1,385 @@
+Name,Price,Region,Population,Income,educated,Education_Level
+"Abilene, TX",161,South,179308,53457,0.254974382,Low Education
+"Akron, OH",134,Midwest,697627,60170,0.368361741,High Education
+"Albany-Lebanon, OR",269,West,130467,52469,0.203500339,Low Education
+"Albany-Schenectady-Troy, NY",218,Northeast,904617,66984,0.412577972,High Education
+"Albany, GA",119,South,145786,45893,0.219737904,Low Education
+"Albuquerque, NM",209,West,919543,53954,0.359612648,High Education
+"Alexandria, LA",116,South,149189,51451,0.232511242,Low Education
+"Allentown-Bethlehem-Easton, PA-NJ",187,Northeast,871229,62912,0.326948324,Medium Education
+"Altoona, PA",101,Northeast,121032,55101,0.225309536,Low Education
+"Amarillo, TX",159,South,271171,57124,0.256610077,Low Education
+"Ames, IA",212,Midwest,126282,50657,0.50758858,High Education
+"Anchorage, AK",242,Pacific,400470,70566,0.333947264,Medium Education
+"Ann Arbor, MI",249,Midwest,366376,71368,0.578973559,High Education
+"Anniston-Oxford, AL",112,South,115788,42533,0.211116491,Low Education
+"Appleton, WI",195,Midwest,244845,60060,0.360230008,High Education
+"Asheville, NC",298,South,476072,57810,0.413647336,High Education
+"Athens-Clarke County, GA",203,South,220405,49884,0.428894602,High Education
+"Atlanta-Sandy Springs-Alpharetta, GA",196,South,6222106,64107,0.418221402,High Education
+"Atlantic City-Hammonton, NJ",243,Northeast,275638,55918,0.325119763,Medium Education
+"Auburn-Opelika, AL",184,South,180773,46691,0.423448238,High Education
+"Augusta-Richmond County, GA-SC",153,South,624083,49496,0.296339255,Medium Education
+"Austin-Round Rock-Georgetown, TX",271,South,2421115,75119,0.520911869,High Education
+"Bakersfield, CA",227,West,916108,44862,0.190415982,Low Education
+"Baltimore-Columbia-Towson, MD",212,South,2835672,71420,0.443992289,High Education
+"Bangor, ME",180,Northeast,153704,51998,0.275189357,Medium Education
+"Barnstable Town, MA",533,Northeast,232457,85317,0.500693683,High Education
+"Baton Rouge, LA",162,South,873060,56897,0.301394023,Medium Education
+"Battle Creek, MI",134,Midwest,133289,44904,0.238590864,Low Education
+"Bay City, MI",118,Midwest,102821,49667,0.223534447,Low Education
+"Beaumont-Port Arthur, TX",125,South,393575,49526,0.211085991,Low Education
+"Beckley, WV",106,South,112369,47065,0.209996872,Low Education
+"Bellingham, WA",361,West,230677,58993,0.404432115,High Education
+"Bend, OR",387,West,206549,71627,0.448177335,High Education
+"Billings, MT",204,West,190208,64017,0.350979441,Medium Education
+"Binghamton, NY",111,Northeast,244889,49216,0.306364798,Medium Education
+"Birmingham-Hoover, AL",157,South,1116857,62262,0.35988299,High Education
+"Bismarck, ND",178,Midwest,134846,68698,0.335237928,Medium Education
+"Blacksburg-Christiansburg, VA",175,South,165812,46345,0.392382153,High Education
+"Bloomington, IL",124,Midwest,171141,58178,0.47510981,High Education
+"Bloomington, IN",185,Midwest,161227,53735,0.466004417,High Education
+"Bloomsburg-Berwick, PA",142,Northeast,83017,53399,0.291248306,Medium Education
+"Boise City, ID",283,West,811336,59739,0.379066958,High Education
+"Boston-Cambridge-Newton, MA-NH",458,Northeast,4900550,94082,0.514164533,High Education
+"Boulder, CO",407,West,327468,98553,0.631782893,High Education
+"Bowling Green, KY",182,South,185682,44902,0.275088618,Medium Education
+"Bremerton-Silverdale-Port Orchard, WA",314,West,277673,68198,0.361680151,High Education
+"Bridgeport-Stamford-Norwalk, CT",349,Northeast,962946,125185,0.504600178,High Education
+"Brownsville-Harlingen, TX",170,South,425208,37325,0.216324308,Low Education
+"Brunswick, GA",224,South,114442,54827,0.298585006,Medium Education
+"Buffalo-Cheektowaga, NY",171,Northeast,1161192,56414,0.360258479,High Education
+"Burlington-South Burlington, VT",268,Northeast,227521,67342,0.527583523,High Education
+"Burlington, NC",187,South,176353,48980,0.26254713,Low Education
+"California-Lexington Park, MD",200,South,114877,66146,0.405773734,High Education
+"Canton-Massillon, OH",127,Midwest,399316,53175,0.24896015,Low Education
+"Cape Coral-Fort Myers, FL",276,South,822453,63568,0.321031435,Medium Education
+"Cape Girardeau, MO-IL",124,Midwest,98275,49170,0.31493891,Medium Education
+"Carbondale-Marion, IL",95,Midwest,132693,48363,0.31238829,Medium Education
+"Carson City, NV",303,West,58130,61026,0.240345918,Low Education
+"Casper, WY",163,West,79601,68472,0.315550019,Medium Education
+"Cedar Rapids, IA",143,Midwest,275592,61165,0.350107665,Medium Education
+"Chambersburg-Waynesboro, PA",167,Northeast,156902,55212,0.244750969,Low Education
+"Champaign-Urbana, IL",150,Midwest,223265,55562,0.460557944,High Education
+"Charleston-North Charleston, SC",263,South,830529,63159,0.407259055,High Education
+"Charleston, WV",96,South,251914,52369,0.245200591,Low Education
+"Charlotte-Concord-Gastonia, NC-SC",218,South,2756069,65156,0.406509487,High Education
+"Charlottesville, VA",258,South,223825,80969,0.51940495,High Education
+"Chattanooga, TN-GA",209,South,574507,54665,0.324997787,Medium Education
+"Cheyenne, WY",181,West,100723,59148,0.283763452,Medium Education
+"Chicago-Naperville-Elgin, IL-IN-WI",205,Midwest,9441957,72512,0.41135697,High Education
+"Chico, CA",266,West,207303,54974,0.345276608,Medium Education
+"Cincinnati, OH-KY-IN",179,Midwest,2265051,65253,0.369305087,High Education
+"Clarksville, TN-KY",189,South,336605,47421,0.277126415,Medium Education
+"Cleveland-Elyria, OH",129,Midwest,2063132,62921,0.361251612,High Education
+"Cleveland, TN",198,South,128479,46240,0.240629128,Low Education
+"Coeur d'Alene, ID",344,West,183578,60474,0.29592995,Medium Education
+"College Station-Bryan, TX",199,South,277824,48514,0.411010033,High Education
+"Colorado Springs, CO",226,West,765424,61217,0.422732153,High Education
+"Columbia, MO",184,Midwest,214630,54618,0.473262112,High Education
+"Columbia, SC",149,South,847686,54597,0.366759084,High Education
+"Columbus, GA-AL",128,South,324110,46748,0.285672192,Medium Education
+"Columbus, IN",145,Midwest,83540,61920,0.337028432,Medium Education
+"Columbus, OH",196,Midwest,2161511,61228,0.399671953,High Education
+"Corpus Christi, TX",191,South,421628,54916,0.222710583,Low Education
+"Corvallis, OR",296,West,97630,55325,0.557867425,High Education
+"Crestview-Fort Walton Beach-Destin, FL",482,South,299786,67820,0.326979417,Medium Education
+"Cumberland, MD-WV",102,South,94122,47013,0.247292899,Low Education
+"Dallas-Fort Worth-Arlington, TX",206,South,7943685,70493,0.394136955,High Education
+"Dalton, GA",172,South,143604,43089,0.182668574,Low Education
+"Danville, IL",73,Midwest,72337,49105,0.155213811,Low Education
+"Daphne-Fairhope-Foley, AL",350,South,246435,56747,0.334808317,Medium Education
+"Davenport-Moline-Rock Island, IA-IL",128,Midwest,379374,56690,0.307767993,Medium Education
+"Dayton-Kettering, OH",134,Midwest,812595,56468,0.33868122,Medium Education
+"Decatur, AL",149,South,157425,45215,0.223727381,Low Education
+"Decatur, IL",86,Midwest,101483,56774,0.246488251,Low Education
+"Deltona-Daytona Beach-Ormond Beach, FL",245,South,705897,54768,0.284373535,Medium Education
+"Denver-Aurora-Lakewood, CO",298,West,2985871,84788,0.494106567,High Education
+"Des Moines-West Des Moines, IA",231,Midwest,729053,64401,0.410680449,High Education
+"Detroit-Warren-Dearborn, MI",174,Midwest,4345761,61322,0.345184499,Medium Education
+"Dothan, AL",132,South,152517,49482,0.215340447,Low Education
+"Dover, DE",198,South,186946,51188,0.252544072,Low Education
+"Dubuque, IA",151,Midwest,98677,60090,0.335378232,Medium Education
+"Duluth, MN-WI",182,Midwest,291323,54565,0.300100537,Medium Education
+"Durham-Chapel Hill, NC",250,South,664310,63799,0.50647771,High Education
+"East Stroudsburg, PA",186,Northeast,167198,52643,0.2923124,Medium Education
+"Eau Claire, WI",176,Midwest,173644,56225,0.338937849,Medium Education
+"El Centro, CA",213,West,178713,45188,0.167518491,Low Education
+"El Paso, TX",162,South,872195,44163,0.257642137,Low Education
+"Elizabethtown-Fort Knox, KY",157,South,157026,50602,0.225624354,Low Education
+"Elkhart-Goshen, IN",138,Midwest,206890,58570,0.206575777,Low Education
+"Elmira, NY",102,Northeast,81426,51630,0.270214415,Medium Education
+"Enid, OK",114,South,61920,48872,0.225610354,Low Education
+"Erie, PA",136,Northeast,267689,51396,0.313402827,Medium Education
+"Eugene-Springfield, OR",300,West,382353,56188,0.353597074,High Education
+"Evansville, IN-KY",134,Midwest,314038,58138,0.29026736,Medium Education
+"Fairbanks, AK",184,Pacific,95356,67790,0.285471881,Medium Education
+"Fargo, ND-MN",154,West,258663,64468,0.429625016,High Education
+"Farmington, NM",166,West,120418,43489,0.181300272,Low Education
+"Fayetteville-Springdale-Rogers, AR",202,South,576403,74943,0.362812739,High Education
+"Fayetteville, NC",160,South,529318,45051,0.265784193,Low Education
+"Flagstaff, AZ",380,West,144060,58933,0.421366743,High Education
+"Flint, MI",129,Midwest,401983,47564,0.238731088,Low Education
+"Florence-Muscle Shoals, AL",147,South,153911,44713,0.241547464,Low Education
+"Florence, SC",138,South,199119,50679,0.24281963,Low Education
+"Fond du Lac, WI",165,Midwest,103836,58204,0.215740992,Low Education
+"Fort Collins, CO",279,West,366778,67849,0.529352492,High Education
+"Fort Smith, AR-OK",140,South,247072,45543,0.199134762,Low Education
+"Fort Wayne, IN",151,Midwest,426076,57079,0.306225064,Medium Education
+"Fresno, CA",252,West,1015190,50549,0.241601074,Low Education
+"Gadsden, AL",115,South,103088,42951,0.168796308,Low Education
+"Gainesville, FL",209,South,348282,50892,0.419341858,High Education
+"Gainesville, GA",202,South,212692,57416,0.304018737,Medium Education
+"Gettysburg, PA",198,South,106027,55597,0.242629959,Low Education
+"Glens Falls, NY",213,Northeast,126440,54454,0.281635819,Medium Education
+"Goldsboro, NC",150,South,117286,49370,0.182552096,Low Education
+"Grand Forks, ND-MN",131,Midwest,103144,60462,0.350756318,Medium Education
+"Grand Island, NE",126,Midwest,76333,54336,0.233496162,Low Education
+"Grand Junction, CO",272,West,158636,54654,0.320205342,Medium Education
+"Grand Rapids-Kentwood, MI",196,Midwest,1094198,62131,0.360801913,High Education
+"Grants Pass, OR",270,West,87730,52166,0.212796571,Low Education
+"Great Falls, MT",186,West,84864,57020,0.280252917,Medium Education
+"Greeley, CO",211,West,350176,58860,0.346248586,Medium Education
+"Green Bay, WI",207,Midwest,330292,61179,0.299886949,Medium Education
+"Greensboro-High Point, NC",174,South,784101,52335,0.32882103,Medium Education
+"Greenville-Anderson, SC",173,South,958958,52202,0.348081798,Medium Education
+"Greenville, NC",162,South,173542,53495,0.364331522,High Education
+"Gulfport-Biloxi, MS",155,South,420782,45604,0.261086279,Low Education
+"Hagerstown-Martinsburg, MD-WV",178,South,302510,52426,0.237141244,Low Education
+"Hammond, LA",145,South,137048,47512,0.203349632,Low Education
+"Hanford-Corcoran, CA",231,West,152981,42525,0.159353373,Low Education
+"Harrisburg-Carlisle, PA",165,Northeast,603493,60723,0.365339768,High Education
+"Harrisonburg, VA",195,South,136555,51466,0.332580327,Medium Education
+"Hartford-East Hartford-Middletown, CT",211,Northeast,1221725,69787,0.41605983,High Education
+"Hattiesburg, MS",144,South,173359,44507,0.293159933,Medium Education
+"Hickory-Lenoir-Morganton, NC",196,South,368347,49697,0.229178741,Low Education
+"Hilton Head Island-Bluffton, SC",357,South,228410,67794,0.43063787,High Education
+"Hinesville, GA",147,South,86378,39616,0.216240804,Low Education
+"Homosassa Springs, FL",199,South,162529,45330,0.193973084,Low Education
+"Hot Springs, AR",179,South,100089,48507,0.259175221,Low Education
+"Houma-Thibodaux, LA",132,South,200656,50394,0.213666903,Low Education
+"Houston-The Woodlands-Sugar Land, TX",175,South,7340118,68344,0.360352257,High Education
+"Huntington-Ashland, WV-KY-OH",106,South,354304,48311,0.262809525,Low Education
+"Huntsville, AL",172,South,514465,59677,0.438960733,High Education
+"Idaho Falls, ID",168,West,165608,59280,0.326963865,Medium Education
+"Indianapolis-Carmel-Anderson, IN",152,Midwest,2141779,68719,0.385087199,High Education
+"Iowa City, IA",174,Midwest,178991,64399,0.510743696,High Education
+"Ithaca, NY",188,Northeast,104777,51169,0.603852177,High Education
+"Jackson, MI",135,Midwest,160066,46409,0.212523043,Low Education
+"Jackson, MS",137,South,583197,53606,0.330330676,Medium Education
+"Jackson, TN",150,South,181579,49028,0.206905029,Low Education
+"Jacksonville, FL",228,South,1675668,62729,0.364557167,High Education
+"Jacksonville, NC",175,South,207298,51585,0.28457285,Medium Education
+"Janesville-Beloit, WI",171,Midwest,164060,52517,0.245080138,Low Education
+"Jefferson City, MO",140,Midwest,150350,51936,0.312769247,Medium Education
+"Johnson City, TN",196,South,210256,48978,0.320136175,Medium Education
+"Johnstown, PA",75,Northeast,131441,47971,0.233289479,Low Education
+"Jonesboro, AR",137,South,135512,45736,0.233009709,Low Education
+"Joplin, MO",137,Midwest,184086,44900,0.248268501,Low Education
+"Kahului-Wailuku-Lahaina, HI",1084,Pacific,164351,60376,0.290152756,Medium Education
+"Kalamazoo-Portage, MI",159,Midwest,261173,59619,0.406285032,High Education
+"Kankakee, IL",141,Midwest,106074,51048,0.21882815,Low Education
+"Kansas City, MO-KS",192,Midwest,2209494,63417,0.3965962,High Education
+"Kennewick-Richland, WA",256,West,311469,51799,0.286119898,Medium Education
+"Killeen-Temple, TX",171,South,496228,47680,0.251999948,Low Education
+"Kingsport-Bristol, TN-VA",165,South,311272,47442,0.218361481,Low Education
+"Kingston, NY",287,Northeast,182319,62270,0.390611331,High Education
+"Knoxville, TN",218,South,907968,58239,0.324319281,Medium Education
+"Kokomo, IN",111,Midwest,83574,47388,0.204125263,Low Education
+"La Crosse-Onalaska, WI-MN",168,Midwest,139094,60402,0.342913179,Medium Education
+"Lafayette-West Lafayette, IN",155,Midwest,226452,48158,0.329677444,Medium Education
+"Lafayette, LA",148,South,481125,52503,0.258756853,Low Education
+"Lake Charles, LA",129,South,207320,51799,0.2396675,Low Education
+"Lake Havasu City-Kingman, AZ",254,West,220816,44645,0.151241561,Low Education
+"Lakeland-Winter Haven, FL",200,South,787404,43223,0.226292586,Low Education
+"Lancaster, PA",193,Northeast,556629,63044,0.325835671,Medium Education
+"Lansing-East Lansing, MI",137,Midwest,540870,50647,0.337279102,Medium Education
+"Laredo, TX",152,South,267780,40873,0.223868853,Low Education
+"Las Cruces, NM",182,West,223337,45361,0.286071273,Medium Education
+"Las Vegas-Henderson-Paradise, NV",258,West,2322985,59150,0.271011892,Medium Education
+"Lawrence, KS",185,Midwest,119964,52799,0.488534132,High Education
+"Lawton, OK",112,South,128523,47719,0.251896998,Low Education
+"Lebanon, PA",183,Northeast,144011,56207,0.256801818,Low Education
+"Lewiston-Auburn, ME",204,Northeast,113023,49055,0.232970218,Low Education
+"Lewiston, ID-WA",199,West,65512,54393,0.26635395,Low Education
+"Lexington-Fayette, KY",183,South,517916,57875,0.420628905,High Education
+"Lima, OH",118,Midwest,101115,50195,0.199530794,Low Education
+"Lincoln, NE",172,Midwest,342448,60299,0.407262557,High Education
+"Little Rock-North Little Rock-Conway, AR",149,South,757615,55848,0.323694109,Medium Education
+"Logan, UT-ID",203,West,155362,48059,0.411320941,High Education
+"Longview, TX",144,South,291219,50727,0.205094819,Low Education
+"Longview, WA",271,West,111956,54630,0.165977006,Low Education
+"Los Angeles-Long Beach-Anaheim, CA",663,West,12872322,76445,0.376169542,High Education
+"Louisville/Jefferson County, KY-IN",167,South,1284553,61490,0.352949699,Medium Education
+"Lubbock, TX",145,South,328283,52295,0.3461427,Medium Education
+"Lynchburg, VA",181,South,263613,48255,0.31033859,Medium Education
+"Macon-Bibb County, GA",122,South,233916,46470,0.233249722,Low Education
+"Madera, CA",249,West,160256,46406,0.213882059,Low Education
+"Madison, WI",230,Midwest,687077,71516,0.505027554,High Education
+"Manchester-Nashua, NH",270,Northeast,426594,71761,0.407210785,High Education
+"Manhattan, KS",113,Midwest,133072,52544,0.382525926,High Education
+"Mankato, MN",145,Midwest,104072,54537,0.356288419,High Education
+"Mansfield, OH",116,Midwest,125319,44998,0.179348571,Low Education
+"McAllen-Edinburg-Mission, TX",153,South,888367,33525,0.213226187,Low Education
+"Medford, OR",289,West,221644,57552,0.302425974,Medium Education
+"Memphis, TN-MS-AR",161,South,1332305,56440,0.318547587,Medium Education
+"Merced, CA",263,West,290014,46188,0.162183544,Low Education
+"Miami-Fort Lauderdale-Pompano Beach, FL",405,South,6139340,77732,0.370252091,High Education
+"Michigan City-La Porte, IN",151,Midwest,111675,49992,0.235887173,Low Education
+"Midland, MI",157,Midwest,83674,60842,0.382898403,High Education
+"Midland, TX",184,South,177216,143728,0.299681326,Medium Education
+"Milwaukee-Waukesha, WI",193,Midwest,1559792,68155,0.392994593,High Education
+"Minneapolis-St. Paul-Bloomington, MN-WI",209,Midwest,3693729,75164,0.450925797,High Education
+"Missoula, MT",348,West,121041,63790,0.471116847,High Education
+"Mobile, AL",139,South,426533,47447,0.249338329,Low Education
+"Modesto, CA",293,West,551275,51015,0.188134341,Low Education
+"Monroe, LA",122,South,202869,46638,0.253024453,Low Education
+"Monroe, MI",163,Midwest,155609,52998,0.224176415,Low Education
+"Montgomery, AL",132,South,385460,49134,0.316932348,Medium Education
+"Morgantown, WV",161,South,141041,52114,0.410696167,High Education
+"Morristown, TN",223,South,146172,45286,0.20337799,Low Education
+"Mount Vernon-Anacortes, WA",365,West,131179,62915,0.29919112,Medium Education
+"Muncie, IN",94,Midwest,112031,45465,0.266812886,Low Education
+"Muskegon, MI",163,Midwest,176565,45571,0.224420558,Low Education
+"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",234,South,536165,50217,0.298410065,Medium Education
+"Napa, CA",757,West,134300,86863,0.399111203,High Education
+"Naples-Marco Island, FL",490,South,397994,131160,0.411054107,High Education
+"Nashville-Davidson--Murfreesboro--Franklin, TN",260,South,2046828,74035,0.411079453,High Education
+"New Bern, NC",186,South,122488,53690,0.266958808,Medium Education
+"New Haven-Milford, CT",226,Northeast,869527,64829,0.368377548,High Education
+"New Orleans-Metairie, LA",181,South,1246176,61801,0.347023163,Medium Education
+"New York-Newark-Jersey City, NY-NJ-PA",491,Northeast,19617869,84084,0.439214412,High Education
+"Niles, MI",180,Midwest,152900,60311,0.303673416,Medium Education
+"North Port-Sarasota-Bradenton, FL",302,South,891411,72316,0.38325296,High Education
+"Norwich-New London, CT",240,Northeast,268681,64847,0.378595476,High Education
+"Ocala, FL",191,South,396415,44521,0.228636814,Low Education
+"Ocean City, NJ",661,Northeast,95634,71590,0.377562216,High Education
+"Odessa, TX",144,South,160869,55448,0.152926548,Low Education
+"Ogden-Clearfield, UT",220,West,713839,54671,0.351809674,Medium Education
+"Oklahoma City, OK",170,South,1459380,60687,0.340349846,Medium Education
+"Olympia-Lacey-Tumwater, WA",285,West,298758,59697,0.367497208,High Education
+"Omaha-Council Bluffs, NE-IA",179,Midwest,976671,68586,0.396402611,High Education
+"Orlando-Kissimmee-Sanford, FL",238,South,2764182,53959,0.369490023,High Education
+"Oshkosh-Neenah, WI",168,Midwest,170718,56878,0.287452927,Medium Education
+"Owensboro, KY",148,South,121348,49701,0.235665458,Low Education
+"Oxnard-Thousand Oaks-Ventura, CA",539,West,832605,76375,0.381821109,High Education
+"Palm Bay-Melbourne-Titusville, FL",236,South,630693,56817,0.360880784,High Education
+"Panama City, FL",340,South,185134,54268,0.283244143,Medium Education
+"Parkersburg-Vienna, WV",105,South,88431,57251,0.233253756,Low Education
+"Pensacola-Ferry Pass-Brent, FL",202,South,523146,54221,0.30478817,Medium Education
+"Peoria, IL",96,Midwest,396466,56918,0.310070028,Medium Education
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",217,Northeast,6241164,73291,0.423315493,High Education
+"Phoenix-Mesa-Chandler, AZ",277,West,5015678,61840,0.348565371,Medium Education
+"Pine Bluff, AR",80,South,84629,40525,0.191311157,Low Education
+"Pittsburgh, PA",158,Northeast,2349172,65792,0.381168586,High Education
+"Pittsfield, MA",267,Northeast,127859,64758,0.390277447,High Education
+"Pocatello, ID",182,West,97585,47470,0.28966443,Medium Education
+"Port St. Lucie, FL",267,South,520710,70400,0.300888423,Medium Education
+"Portland-South Portland, ME",351,Northeast,561576,71990,0.466641848,High Education
+"Portland-Vancouver-Hillsboro, OR-WA",315,West,2509489,69435,0.416503156,High Education
+"Poughkeepsie-Newburgh-Middletown, NY",248,Northeast,703486,62509,0.359038092,High Education
+"Prescott Valley-Prescott, AZ",320,West,246191,51747,0.289852372,Medium Education
+"Providence-Warwick, RI-MA",303,Northeast,1673802,63746,0.36670464,High Education
+"Provo-Orem, UT",215,West,715001,53731,0.436853498,High Education
+"Pueblo, CO",175,West,169544,47208,0.23815662,Low Education
+"Punta Gorda, FL",256,South,202661,53227,0.275349069,Medium Education
+"Racine, WI",186,Midwest,195846,57574,0.316687822,Medium Education
+"Raleigh-Cary, NC",218,South,1484338,70628,0.507821273,High Education
+"Rapid City, SD",226,Midwest,145159,65807,0.331343402,Medium Education
+"Reading, PA",167,Northeast,430449,58199,0.273073299,Medium Education
+"Redding, CA",246,West,180930,54120,0.237751141,Low Education
+"Reno, NV",332,West,500915,78077,0.315686458,Medium Education
+"Richmond, VA",214,South,1339182,68205,0.420548994,High Education
+"Riverside-San Bernardino-Ontario, CA",334,West,4667558,50407,0.240752736,Low Education
+"Roanoke, VA",176,South,314340,55243,0.310606094,Medium Education
+"Rochester, MN",180,Midwest,228073,65003,0.429974294,High Education
+"Rochester, NY",152,Northeast,1081152,57902,0.371101453,High Education
+"Rockford, IL",110,Midwest,335342,50806,0.260479621,Low Education
+"Rocky Mount, NC",151,South,144090,48298,0.209761957,Low Education
+"Rome, GA",163,South,99443,44126,0.24058673,Low Education
+"Sacramento-Roseville-Folsom, CA",345,West,2416702,66940,0.36194192,High Education
+"Saginaw, MI",109,Midwest,188330,47700,0.246317224,Low Education
+"Salem, OR",281,West,436317,53589,0.275523378,Medium Education
+"Salinas, CA",678,West,432858,65123,0.275368246,Medium Education
+"Salisbury, MD-DE",261,South,439032,58936,0.33930782,Medium Education
+"Salt Lake City, UT",256,West,1266191,65085,0.378969029,High Education
+"San Angelo, TX",165,South,121839,63284,0.243462862,Low Education
+"San Antonio-New Braunfels, TX",185,South,2655342,55180,0.326660237,Medium Education
+"San Diego-Chula Vista-Carlsbad, CA",618,West,3276208,74326,0.430282533,High Education
+"San Francisco-Oakland-Berkeley, CA",728,West,4579599,123736,0.535934868,High Education
+"San Jose-Sunnyvale-Santa Clara, CA",837,West,1938524,141516,0.557673981,High Education
+"San Luis Obispo-Paso Robles, CA",578,West,282013,67951,0.412191225,High Education
+"Santa Cruz-Watsonville, CA",736,West,264370,86365,0.430621284,High Education
+"Santa Fe, NM",388,West,155664,74751,0.455323186,High Education
+"Santa Maria-Santa Barbara, CA",950,West,443837,75720,0.371120699,High Education
+"Santa Rosa-Petaluma, CA",552,West,482650,77900,0.383054882,High Education
+"Savannah, GA",215,South,418373,55383,0.334309588,Medium Education
+"Scranton--Wilkes-Barre, PA",130,Northeast,567998,52304,0.273089004,Medium Education
+"Seattle-Tacoma-Bellevue, WA",440,West,4034248,92113,0.468664669,High Education
+"Sebastian-Vero Beach, FL",263,South,167352,105250,0.33904037,Medium Education
+"Sebring-Avon Park, FL",188,South,105618,41845,0.185300788,Low Education
+"Sheboygan, WI",180,Midwest,117841,60359,0.275307144,Medium Education
+"Sherman-Denison, TX",195,South,143131,53393,0.273083207,Medium Education
+"Shreveport-Bossier City, LA",126,South,385154,55858,0.258176984,Low Education
+"Sierra Vista-Douglas, AZ",183,West,125663,50195,0.276591685,Medium Education
+"Sioux City, IA-NE-SD",141,Midwest,149240,59427,0.254266126,Low Education
+"Sioux Falls, SD",204,Midwest,289592,74725,0.370904633,High Education
+"South Bend-Mishawaka, IN-MI",140,Midwest,323637,56410,0.299529051,Medium Education
+"Spartanburg, SC",165,South,345831,52621,0.257229748,Low Education
+"Spokane-Spokane Valley, WA",225,West,597919,53620,0.331910718,Medium Education
+"Springfield, IL",100,Midwest,206655,57178,0.3519756,Medium Education
+"Springfield, MA",222,Northeast,694523,60461,0.360769963,High Education
+"Springfield, MO",162,South,487061,49533,0.297849903,Medium Education
+"Springfield, OH",140,Midwest,134831,47151,0.204685943,Low Education
+"St. Cloud, MN",166,Midwest,201868,58261,0.299651101,Medium Education
+"St. George, UT",298,West,197680,50746,0.366418401,High Education
+"St. Joseph, MO-KS",115,Midwest,119690,46980,0.231718019,Low Education
+"St. Louis, MO-IL",156,Midwest,2801319,69698,0.381490862,High Education
+"State College, PA",194,Northeast,158425,54686,0.459918141,High Education
+"Staunton, VA",193,South,126776,52910,0.27683007,Medium Education
+"Stockton, CA",312,West,793229,54183,0.229455706,Low Education
+"Sumter, SC",138,South,134925,46288,0.239402393,Low Education
+"Syracuse, NY",149,Northeast,653633,57576,0.350324139,Medium Education
+"Tallahassee, FL",194,South,390992,52359,0.401939187,High Education
+"Tampa-St. Petersburg-Clearwater, FL",259,South,3290730,60091,0.349762001,Medium Education
+"Terre Haute, IN",91,Midwest,184875,45783,0.228832765,Low Education
+"Texarkana, TX-AR",126,South,146408,46472,0.200801802,Low Education
+"The Villages, FL",260,South,144970,69224,0.379622838,High Education
+"Toledo, OH",131,Midwest,640384,54483,0.306566836,Medium Education
+"Topeka, KS",120,Midwest,231783,54500,0.287763106,Medium Education
+"Trenton-Princeton, NJ",248,Northeast,380688,79354,0.463520991,High Education
+"Tucson, AZ",226,West,1057597,54464,0.370588716,High Education
+"Tulsa, OK",161,South,1034123,62618,0.305480336,Medium Education
+"Tuscaloosa, AL",164,South,277494,41350,0.312290662,Medium Education
+"Twin Falls, ID",234,West,119007,48305,0.201545228,Low Education
+"Tyler, TX",187,South,241922,66784,0.269255643,Medium Education
+"Urban Honolulu, HI",669,Pacific,995638,64936,0.376898908,High Education
+"Utica-Rome, NY",143,Northeast,288668,51162,0.285944121,Medium Education
+"Valdosta, GA",154,South,149849,42469,0.255137904,Low Education
+"Vallejo, CA",345,West,448747,58273,0.285235682,Medium Education
+"Victoria, TX",154,South,98196,58905,0.179110732,Low Education
+"Vineland-Bridgeton, NJ",172,Northeast,151356,46791,0.190143916,Low Education
+"Virginia Beach-Norfolk-Newport News, VA-NC",200,South,1806840,57873,0.346729283,Medium Education
+"Visalia, CA",234,West,477544,47295,0.161483851,Low Education
+"Waco, TX",183,South,283885,49798,0.266444287,Low Education
+"Walla Walla, WA",251,West,61890,55436,0.350037578,Medium Education
+"Warner Robins, GA",147,South,198193,47478,0.318958977,Medium Education
+"Washington-Arlington-Alexandria, DC-VA-MD-WV",306,South,6373756,83010,0.544858414,High Education
+"Waterloo-Cedar Falls, IA",137,Midwest,167889,55247,0.321046539,Medium Education
+"Watertown-Fort Drum, NY",133,Northeast,116637,51749,0.266699574,Low Education
+"Wausau-Weston, WI",157,Midwest,166334,58770,0.277414859,Medium Education
+"Weirton-Steubenville, WV-OH",108,South,114235,47725,0.220511651,Low Education
+"Wenatchee, WA",324,West,124118,57853,0.313269653,Medium Education
+"Wheeling, WV-OH",107,South,136708,53193,0.23813907,Low Education
+"Wichita Falls, TX",127,South,149299,51731,0.241393021,Low Education
+"Wichita, KS",141,Midwest,650039,58165,0.328798345,Medium Education
+"Williamsport, PA",133,Northeast,113104,49869,0.24633888,Low Education
+"Wilmington, NC",265,South,300658,58526,0.42136912,High Education
+"Winchester, VA-WV",208,South,146455,59702,0.301161074,Medium Education
+"Winston-Salem, NC",165,South,688471,54330,0.312883022,Medium Education
+"Worcester, MA-CT",265,Northeast,980137,63475,0.362820794,High Education
+"Yakima, WA",229,West,257001,49266,0.189360759,Low Education
+"York-Hanover, PA",163,Northeast,461058,57321,0.273107305,Medium Education
+"Youngstown-Warren-Boardman, OH-PA",109,Midwest,535499,48645,0.25991572,Low Education
+"Yuba City, CA",261,West,182813,50252,0.206634491,Low Education
+"Yuma, AZ",213,West,207842,44811,0.16632498,Low Education
