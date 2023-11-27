@@ -1,0 +1,28 @@
+{
+    "id": "00A0010E",
+    "path": null,
+    "project_path": null,
+    "type": "object_explorer",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1701023102908.0,
+    "source_on_save": false,
+    "relative_order": 8,
+    "properties": {
+        "id": "92833b227b8f4b7580a9ee0707c23fba",
+        "name": "rf_model",
+        "title": "rf_model",
+        "language": "R",
+        "source_window_id": "",
+        "Source": "Source"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 0,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1701023102908,
+    "read_only": false,
+    "read_only_alternatives": []
+}
